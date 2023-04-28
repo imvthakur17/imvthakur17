@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imvthakur17
+- 👋 Hi, I’m Vikas Kumar
 - 👀 I’m interested in Frontend app and web devlopment
-- 🌱 I’m currently learning some backend technology.
+- 🌱 Currently busy in learning some some cool stuff of backend technology.
 - 📫 How to reach me?
 - my email- vikas2022cse@gmail.com
 - my insta handle- @im_vthakur17
